@@ -4,6 +4,8 @@ Windows utility that detects the existing yellow-circle Y prompt and sends an
 automatic Y press through a virtual Xbox controller. It reads one physical
 Xbox controller and forwards its inputs through the virtual controller.
 
+If you like what I do, buy me a ko-fi https://ko-fi.com/tru3man
+
 ## For players
 
 AutoY is a Windows x64 preview. It supports automatic Y only. It does not use
