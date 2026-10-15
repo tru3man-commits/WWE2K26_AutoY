@@ -12,7 +12,7 @@ AutoY is a Windows x64 preview. It supports automatic Y only. It does not use
 OCR and may react to unrelated yellow circles on screen.
 
 The English user guide is included as `USER_GUIDE.pdf`. The compiled setup
-executable is not included in this repository. If you already received the
+executable is included in the repository. If you already have the
 installer, run it and follow the included setup instructions. Close the game
 before installing or changing controller settings.
 
