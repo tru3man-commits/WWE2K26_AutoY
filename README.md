@@ -61,9 +61,3 @@ See `THIRD_PARTY_NOTICES.txt` for project links and license references.
 ViGEmBus and HidHide installers are downloaded unmodified from their official
 Nefarius releases and display their own license terms during installation.
 
-## Distribution
-
-Do not add the compiled Setup executable to the Git history. This repository
-is public, so anyone can view and download the source and build the program.
-Public GitHub Release assets are also free to download. Use a payment-gated
-storefront for any paid installer distribution.
