@@ -1,0 +1,14 @@
+WWE 2K26 AutoY - managed controller edition
+
+Setup installs AutoY and, when missing, launches the official ViGEmBus and
+HidHide installers. Complete their driver installation steps. Windows may
+request administrator approval and a restart. These drivers are shared with
+other controller tools and are not removed when AutoY is uninstalled.
+
+AutoY reads one physical Xbox controller, adds automatic Y presses and sends
+everything through one virtual Xbox controller. Start AutoY before the game.
+Select your physical controller once. Stop and Exit restore its visibility.
+The application manages only the controller you select.
+
+This preview supports automatic Y only, using the previous yellow-circle
+recognition logic. It does not include automatic A, B or X recognition.

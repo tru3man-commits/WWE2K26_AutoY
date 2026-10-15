@@ -1,0 +1,19 @@
+AutoY uses third-party components distributed under their own licenses.
+The driver installers are obtained unmodified from the official Nefarius
+GitHub releases. Their installers present the upstream license terms.
+Build-time downloads must pass Windows Authenticode validation with a
+Nefarius signer. verified-downloads.json records versions, URLs and hashes.
+
+HidHide: https://github.com/nefarius/HidHide
+ViGEmBus: https://github.com/nefarius/ViGEmBus
+vgamepad: https://github.com/yannbouteiller/vgamepad
+pynput: https://github.com/moses-palmer/pynput
+MSS: https://github.com/BoboTiG/python-mss
+OpenCV: https://opencv.org/license/
+NumPy: https://numpy.org/doc/stable/license.html
+Python: https://docs.python.org/3/license.html
+PyInstaller: https://pyinstaller.org/en/stable/license.html
+Inno Setup (build tool): https://jrsoftware.org/isinfo.php
+
+Package metadata is collected into the application bundle. Exact installed
+Python package versions are written to build-versions.txt during the build.

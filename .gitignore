@@ -1,0 +1,28 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.build-venv/
+venv/
+
+# Build output and generated installer files
+build/
+dist/
+output/
+*.spec
+installer/redist/
+
+# Local logs, configuration, and device inventories
+*.log
+discovery.json
+autoy_config.json
+controller.json
+controller-session.json
+recovery.json
+recovery.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

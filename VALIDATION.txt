@@ -1,0 +1,17 @@
+Validation performed in Linux environment:
+
+28 unit tests passed (background dispatch, device classification fixtures, recovery transactions and actual output-loop button merging).
+All Python files parsed successfully.
+Y detector AST unchanged from the previous ultra-fast AutoY source.
+
+Not executed here:
+Windows PyInstaller build; Inno Setup compilation; signed installer downloads;
+HidHide/ViGEmBus driver calls; Bluetooth/PnP discovery; real game input.
+
+Use BUILD_SETUP.bat on Windows x64 to compile and test the release candidate.
+
+0.2.2 regression validation against the supplied discovery.json:
+previous candidate list: 0; corrected classifier: 1 controller, 3 paths.
+The paths are the gaming HID child, its Bluetooth HID endpoint and its
+controller parent. Shared Bluetooth adapter and USB hubs are excluded.
+The supplied private device inventory is not included in this package.
